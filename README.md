@@ -77,10 +77,3 @@ streamlit run app.py
   <li><strong>Prediction:</strong> The CNN analyzes the texture (looking for the parasite's "ring" shape).</li>
   <li><strong>Result:</strong> Displays <strong>Infected</strong> or <strong>Uninfected</strong>.</li>
 </ol>
-
-<br>
-
-<hr>
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/sankalp6115">Your Name</a>
-</p>
